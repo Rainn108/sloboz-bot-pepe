@@ -6,8 +6,8 @@
     "type": "offline"
   },
   "server": {
-    "ip": "vreden.aternos.me",
-    "port": 27586,
+    "ip": "vreden-ocpd.aternos.me",
+    "port": 48697,
     "version": "1.26.23.1",
     "try-creative": false
   },
